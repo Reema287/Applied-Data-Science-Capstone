@@ -27,17 +27,6 @@ An interactive data visualization dashboard built using **Dash** and **Plotly** 
 
 ---
 
-## 🏁 Getting Started
-
-### 🔧 Prerequisites
-
-Make sure you have Python 3 and pip installed.
-
-```bash
-pip install pandas dash plotly```
-
-
-
 ##📌 Appendix
 Built on IBM Skills Network Labs environment
 
@@ -53,3 +42,14 @@ IBM Skills Network
 SpaceX for public launch data
 
 Plotly Dash Community
+
+ 
+## 🏁 Getting Started
+
+### 🔧 Prerequisites
+
+Make sure you have Python 3 and pip installed.
+
+```bash
+pip install pandas dash plotly
+
