@@ -34,7 +34,8 @@ An interactive data visualization dashboard built using **Dash** and **Plotly** 
 Make sure you have Python 3 and pip installed.
 
 ```bash
-pip install pandas dash plotly
+pip install pandas dash plotly```
+
 
 
 ##📌 Appendix
