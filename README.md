@@ -27,7 +27,7 @@ An interactive data visualization dashboard built using **Dash** and **Plotly** 
 
 ---
 
-##📌 Appendix
+**##**📌 Appendix
 Built on IBM Skills Network Labs environment
 
 Port 8060 used for deployment in the lab environment
